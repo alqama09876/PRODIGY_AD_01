@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cyan">#5B5B5B</color>
+    <color name="orange">#FF3D00</color>
+    <color name="yellow">#FF9800</color>
+    <color name="light">#D3D3D3</color>
+    <color name="t_blue">#313338</color>
+    <color name="green">#6EC256</color>
+    <color name="l_gray">#949494</color>
+    <color name="light_back_gray">#111111</color>
+    <!--    //...-->
+    <color name="blue">#0156D3</color>
+    <color name="light_blue_purple">#A0BBF2</color>
+    <color name="light_gray">#E4EBFD</color>
+    <color name="dark_blue">#11182B</color>
+    <color name="dark_grey">#585858</color>
+    <color name="White">#FFFFFF</color>
+
+
+    // Text(text, style: TextStyle(fontSize: 15, fontFamily: 'RalewayRegular', color: Color.fromARGB(255, 228, 235, 253))), // light grey
+    // Text(text, style: TextStyle(fontSize: 15, fontFamily: 'RalewayRegular', color: Color.fromARGB(255, 160, 187, 242))), // light blue
+
+</resources>
